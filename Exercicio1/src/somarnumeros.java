@@ -11,7 +11,7 @@ public class somarnumeros {
 		//ler primeiro numero
 		System.out.println("Primeiro numero:");
 		x = scr.nextInt();
-		
+		//ler segundo numero
 		System.out.println("Segundo numero:");
 		y = scr.nextInt();
 		
